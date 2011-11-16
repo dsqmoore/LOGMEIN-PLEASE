@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Deutsch"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please gibt IT-Profis die Moglichkeit, ihre LogMeIn und / oder LogMeIn Rescue-Konto aus der Symbolleiste des Browsers zugreifen."
+   },
+   "lang": {
+      "message": "de"
+   },
+   "iislang": {
+      "message": "de-DE"
+   },
+   "email": {
+      "message": "E-Mail"
+   },
+   "password": {
+      "message": "Passwort"
+   },
+   "options": {
+      "message": "Optionen"
+   },
+   "create_account": {
+      "message": "Ein Konto anlegen"
+   },
+   "password_recovery": {
+      "message": "Passwort vergessen?"
+   },
+   "set_language": {
+      "message": "W&#228;hlen Sie Hyperlink Sprache (Englisch standardm&#228;&#223;ig)"
+   },
+   "save_login": {
+      "message": "Speichern"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "click_instructions": {
+      "message": "Klicken Sie auf Zur&#252;cksetzen klicken Sie auf Speichern zu l&#246;schen."
+   },
+   "affilated": {
+      "message": "Diese Erweiterung ist nicht offiziell mit verbundenen"
+   },
+   "solutions": {
+      "message": "L&#246;sungen"
+   },
+   "Products": {
+      "message": "Produkte"
+   },
+   "about_logmein": {
+      "message": "&#220;ber LogMeIn"
+   },
+   "Support": {
+      "message": "Support"
+   },
+   "contact_logmein": {
+      "message": "Kontakt LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

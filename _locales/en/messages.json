@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please gives IT professionals the ability to access their LogMeIn and/or LogMeIn Rescue account from the browser toolbar."
+   },
+   "lang": {
+      "message": "en"
+   },
+   "iislang": {
+      "message": "en-US"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "create_account": {
+      "message": "Create an account"
+   },
+   "password_recovery": {
+      "message": "Forgot your password?"
+   },
+   "set_language": {
+      "message": "Select hyperlink language (English by default)"
+   },
+   "save_login": {
+      "message": "Save"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "click_instructions": {
+      "message": "Click Reset then Save to clear."
+   },
+   "affilated": {
+      "message": "This extension is not officially affiliated with"
+   },
+   "solutions": {
+      "message": "Solutions"
+   },
+   "Products": {
+      "message": "Products"
+   },
+   "about_logmein": {
+      "message": "About LogMeIn"
+   },
+   "Support": {
+      "message": "Support"
+   },
+   "contact_logmein": {
+      "message": "Contact LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

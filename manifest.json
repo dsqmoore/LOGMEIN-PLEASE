@@ -1,0 +1,23 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "assets/icons/19.png",
+      "default_title": "LogMeIn Please",
+      "homepage_url": "http://kevinbourgeois.net/chrome-apps/",
+      "popup": "templates/action.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "assets/icons/128.png",
+      "48": "assets/icons/48.png",
+      "32": "assets/icons/32.png",
+      "24": "assets/icons/24.png",
+      "19": "assets/icons/19.png",
+      "16": "assets/icons/16.png"
+   },
+   "name": "__MSG_extName__",
+   "options_page": "templates/options.html",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.5.1025"
+}

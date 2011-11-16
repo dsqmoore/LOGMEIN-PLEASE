@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Italiano"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please offre ai professionisti la possibilita di accedere ai propri LogMeIn e / o account LogMeIn Rescue dalla barra degli strumenti del browser."
+   },
+   "lang": {
+      "message": "IT"
+   },
+   "iislang": {
+      "message": "it-IT"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "create_account": {
+      "message": "Crea un account"
+   },
+   "password_recovery": {
+      "message": "Dimenticato la password?"
+   },
+   "set_language": {
+      "message": "Scegli la lingua collegamento ipertestuale (inglese di default)"
+   },
+   "save_login": {
+      "message": "Salva"
+   },
+   "reset": {
+      "message": "Reimposta"
+   },
+   "click_instructions": {
+      "message": "Fare clic su Reimposta poi salvare chiaro."
+   },
+   "affilated": {
+      "message": "Questa estensione non &#232; ufficialmente affiliato con"
+   },
+   "solutions": {
+      "message": "Soluzioni"
+   },
+   "Products": {
+      "message": "Prodotti"
+   },
+   "about_logmein": {
+      "message": "Informazioni su LogMeIn"
+   },
+   "Support": {
+      "message": "Supporto"
+   },
+   "contact_logmein": {
+      "message": "Contatto LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - French"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please donne aux professionnels la possibilite d'acceder a leurs LogMeIn et / ou d'un compte LogMeIn Rescue a partir de la barre d'outils du navigateur."
+   },
+   "lang": {
+      "message": "fr"
+   },
+   "iislang": {
+      "message": "fr-FR"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "password": {
+      "message": "Mot de passe"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "create_account": {
+      "message": "Cr&#233;er un compte"
+   },
+   "password_recovery": {
+      "message": "Mot de passe oubli&#233;?"
+   },
+   "set_language": {
+      "message": "S&#233;lectionnez la langue lien hypertexte (anglais par d&#233;faut)"
+   },
+   "save_login": {
+      "message": "Enregistrer"
+   },
+   "reset": {
+      "message": "Restaurer"
+   },
+   "click_instructions": {
+      "message": "Cliquez sur Restaurer, puis sur Enregistrer pour effacer."
+   },
+   "affilated": {
+      "message": "Cette extension n'est pas officiellement affili&#233; &#224;"
+   },
+   "solutions": {
+      "message": "Solutions"
+   },
+   "Products": {
+      "message": "Produits"
+   },
+   "about_logmein": {
+      "message": "A propos LogMeIn"
+   },
+   "Support": {
+      "message": "Assistance"
+   },
+   "contact_logmein": {
+      "message": "Contact LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

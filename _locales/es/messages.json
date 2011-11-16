@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Spanish"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please da a los profesionales de tecnologia de informacion la capacidad de acceder a sus LogMeIn y / o cuenta de LogMeIn Rescue de la barra de herramientas del navegador."
+   },
+   "lang": {
+      "message": "es"
+   },
+   "iislang": {
+      "message": "es-US"
+   },
+   "email": {
+      "message": "Correo electr&#243;nico"
+   },
+   "password": {
+      "message": "Contrase&#241;a"
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "create_account": {
+      "message": "Crear una cuenta"
+   },
+   "password_recovery": {
+      "message": "Recuperaci&#243;n de la contrase&#241;a"
+   },
+   "set_language": {
+      "message": "Seleccione el idioma hipervinculo (Ingl&#233;s por defecto)"
+   },
+   "save_login": {
+      "message": "Guardar"
+   },
+   "reset": {
+      "message": "Restablecer"
+   },
+   "click_instructions": {
+      "message": "Haga clic en Restablecer a continuaci&#243;n, Guardar para borrar."
+   },
+   "affilated": {
+      "message": "Esta extensi&#243;n no est&#225; oficialmente afiliado con"
+   },
+   "solutions": {
+      "message": "Soluciones"
+   },
+   "Products": {
+      "message": "Productos"
+   },
+   "about_logmein": {
+      "message": "Acerca de LogMeIn"
+   },
+   "Support": {
+      "message": "Soporte"
+   },
+   "contact_logmein": {
+      "message": "Contacto LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

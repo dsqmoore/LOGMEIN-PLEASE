@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Nederlandse"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please geeft IT-professionals de mogelijkheid om hun LogMeIn en / of LogMeIn Rescue-account toegang vanuit de browser werkbalk."
+   },
+   "lang": {
+      "message": "nl"
+   },
+   "iislang": {
+      "message": "nl-NL"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "password": {
+      "message": "Wachtwoord"
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "create_account": {
+      "message": "Maak een account aan"
+   },
+   "password_recovery": {
+      "message": "Uw wachtwoord vergeten?"
+   },
+   "set_language": {
+      "message": "Selecteer hyperlink taal (Engels is de standaard)"
+   },
+   "save_login": {
+      "message": "Opslaan"
+   },
+   "reset": {
+      "message": "Beginwaarden"
+   },
+   "click_instructions": {
+      "message": "Klik op Beginwaarden op Opslaan om duidelijke."
+   },
+   "affilated": {
+      "message": "Deze uitbreiding is niet officieel verbonden met"
+   },
+   "solutions": {
+      "message": "Oplossingen"
+   },
+   "Products": {
+      "message": "Producten"
+   },
+   "about_logmein": {
+      "message": "Informatie LogMeIn"
+   },
+   "Support": {
+      "message": "Support"
+   },
+   "contact_logmein": {
+      "message": "Contact LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

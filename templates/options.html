@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>LogMeIn Please</title>
+<link href="css/options.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/backend.js"></script>
+</head>
+<body onLoad="messages()">
+<div id="container">
+<div id="options">
+<form name=options>
+  <td valign="top"><a href="#" onClick="window.close()"><img src="../assets/images/close.png" alt="Close" align="right" style="margin: 2px;"></a></td>
+  <div class="tab" id="LogMeIn">
+<p><img src="../assets/images/logo.png"></p>
+<script>document.write(chrome.i18n.getMessage('email'));</script>
+  </p>
+  <p>
+       <input type='text' id='email' value='' size='48' maxlength='256'>
+  </p>
+  <p>
+<script>document.write(chrome.i18n.getMessage('password'));</script>
+  </p>
+  <p>
+        <input type='password' id='password' value='' size='48' maxlength='256'>
+  </p>
+  <p>
+  	<select name="language" class="i18n" id="language" value='' lang="en">
+        <option value="US" selected>English</option>
+		<option value="CN">Chinese</option>
+        <option value="NL">Dutch</option>
+        <option value="FR">French</option>
+        <option value="DE">German</option>
+        <option value="HU">Hungarian</option>
+		<option value="IT">Italian</option>
+        <option value="JP">Japanese</option>
+        <option value="KR">Korean</option>
+        <option value="PT">Portuguese</option>
+        <option value="RU">Russian</option>
+        <option value="US-ES">Spanish</option>
+	</select>
+<script>document.write(chrome.i18n.getMessage('set_language'));</script></p>
+  <p>
+  <button type="submit" onclick='return save_options()' class="Button" ><script>document.write(chrome.i18n.getMessage('save_login'));</script> </button>
+  </li>
+  </ol>
+  <button type="submit" onClick='return restore_options()' class="Button" ><script>document.write(chrome.i18n.getMessage('reset'));</script> </button><script>document.write(chrome.i18n.getMessage('click_instructions'));</script>
+  </li>
+  </ol>  
+  </form>
+<p align="center"><script>document.write(chrome.i18n.getMessage('affilated'));</script><a href="javascript:home_web()" target="_blank"> LogMeIn
+<hr align="center" width="375">
+</div>
+</div>
+</p>
+<p>
+<p align="center"><a href="javascript:solutions_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('solutions'));</script></li>
+</ol><a href="javascript:products_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('products'));</script></li>
+</ol><a href="javascript:about_logmein_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('about_logmein'));</script></li>
+</ol><a href="javascript:support_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('support'));</script></li>
+</ol><a href="javascript:contact_logmein_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('contact_logmein'));</script></li>
+</ol><a href="javascript:labs_beta_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('labs'));</script></li>
+</p>
+</body>
+</html>

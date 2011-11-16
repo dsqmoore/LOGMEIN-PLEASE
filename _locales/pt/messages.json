@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Portugues"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please da aos profissionais de TI a capacidade de acessar suas LogMeIn e / ou LogMeIn Rescue conta da barra de ferramentas do navegador"
+   },
+   "lang": {
+      "message": "pt"
+   },
+   "iislang": {
+      "message": "pt-PT"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "password": {
+      "message": "Senha"
+   },
+   "options": {
+      "message": "Op&#231;&#245;es"
+   },
+   "create_account": {
+      "message": "Crie uma contat"
+   },
+   "password_recovery": {
+      "message": "Esqueceu sua senha?"
+   },
+   "set_language": {
+      "message": "Selecione o idioma hiperlink (Ingl&#234;s, por padr&#227;o)"
+   },
+   "save_login": {
+      "message": "Guardar"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "click_instructions": {
+      "message": "Clique em Salvar Reset para limpar."
+   },
+   "affilated": {
+      "message": "Esta extens&#227;o n&#227;o &#233; oficialmente afiliado"
+   },
+   "solutions": {
+      "message": "Solu&#231;&#245;es"
+   },
+   "Products": {
+      "message": "Produtos"
+   },
+   "about_logmein": {
+      "message": "Sobre LogMeIn"
+   },
+   "Support": {
+      "message": "Suporte"
+   },
+   "contact_logmein": {
+      "message": "Contato LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

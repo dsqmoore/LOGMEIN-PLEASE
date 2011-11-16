@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Magyar"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please ad az informatikai szakemberek kepesek hozzaferni a LogMeIn-es / vagy a LogMeIn Rescue veve a bongeszo eszkoztaran."
+   },
+   "lang": {
+      "message": "hu"
+   },
+   "iislang": {
+      "message": "hu-HU"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "password": {
+      "message": "Jelsz&#243;"
+   },
+   "options": {
+      "message": "Opci&#243;k"
+   },
+   "create_account": {
+      "message": "Hozzon l&#233;tre egy fi&#243;kot"
+   },
+   "password_recovery": {
+      "message": "Elfelejtette a jelszav&#225;t?"
+   },
+   "set_language": {
+      "message": "V&#225;lassza ki a hiperhivatkoz&#225;s nyelv (alap&#233;rtelmez&#233;s szerint angol nyelven)"
+   },
+   "save_login": {
+      "message": "Ment&#233;s"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "click_instructions": {
+      "message": "Kattintson az Alaphelyzet gombra, majd a Ment&#233;s egy&#233;rtelm&#361;."
+   },
+   "affilated": {
+      "message": "Ez a kiterjeszt&#233;s hivatalosan nem kapcsolt"
+   },
+   "solutions": {
+      "message": "Megold&#225;sok"
+   },
+   "Products": {
+      "message": "Term&#233;kek"
+   },
+   "about_logmein": {
+      "message": "R&#243;lunk LogMeIn"
+   },
+   "Support": {
+      "message": "T&#225;mogat&#225;s"
+   },
+   "contact_logmein": {
+      "message": "Kapcsolat LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}

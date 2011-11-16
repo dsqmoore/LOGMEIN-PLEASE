@@ -1,0 +1,39 @@
+<html>
+<head>
+<link href="css/chrome.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/backend.js"></script>
+</head>
+<body onLoad="backend()"style="height:300px;width:225px;">
+<form name="login_pw" id="login_pw" method=post action="https://secure.logmein.com/US/login/auth.aspx" target="_blank">
+  <td valign="top"><a href="#" onClick="window.close()"><img src="../assets/images/close.png" alt="Close" align="right" style="margin: 2px;"></a></td>
+<p><img src="../assets/images/logo.png"></p>
+      <p>
+       <input type="hidden" name="lang" id="lang" class="i18n" value="lang" />
+       <input type="hidden" name="iislang" id="iislang" class="i18n" value="iislang" />
+       <input type="hidden" name="emailchange" value="0" />
+       <input type="hidden" name="targeturl" value="" />
+       <input type="hidden" name="ScriptManager_HiddenField" id="ScriptManager_HiddenField" value="" />
+    <script>document.write(chrome.i18n.getMessage('email'));</script>
+      </p>
+      <p>
+       <input name="email" id="email" type="text" size="25" maxlength="256" tabindex="1" value="">
+</p>
+      <p>
+    <script>document.write(chrome.i18n.getMessage('password'));</script>
+      </p>
+      <p>
+        <input name="password" type="password" id="password" tabindex="2" value="" size="25" maxlength="256">
+</p>
+      <p>
+        <input type="submit" value="Log Me In" class="small">
+      </li>
+  	  </ol>
+        <button type="button" onClick='options_link()' class="small" ><script>document.write(chrome.i18n.getMessage('options'));</script> </button> 
+ 	  </p>
+      <p>
+<p><a href="javascript:create_account_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('create_account'));</script></a></p>
+<p><a href="javascript:password_recovery_web()" target="_blank"><script>document.write(chrome.i18n.getMessage('password_recovery'));</script></a></p>
+<p><a href="action2.html">LogMeIn Rescue</a></p>
+</form>
+</body>
+</html>

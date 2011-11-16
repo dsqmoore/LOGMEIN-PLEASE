@@ -1,0 +1,62 @@
+{
+   "extName": {
+   	  "message": "LogMeIn Please - Simplified Chinese"
+   },
+   "extDescription": {
+      "message": "LogMeIn Please gives IT professionals the ability to access their LogMeIn and/or LogMeIn Rescue account from the browser toolbar."
+   },
+   "lang": {
+      "message": "zh"
+   },
+   "iislang": {
+      "message": "zh-CN"
+   },
+   "email": {
+      "message": "&#30005;&#37038;"
+   },
+   "password": {
+      "message": "&#23494;&#30721;"
+   },
+   "options": {
+      "message": "&#36873;&#39033;"
+   },
+   "create_account": {
+      "message": "&#21019;&#24314;&#19968;&#20010;&#24080;&#25143;"
+   },
+   "password_recovery": {
+      "message": "&#24536;&#35760;&#23494;&#30721;?"
+   },
+   "set_language": {
+      "message": "&#36873;&#25321;&#36229;&#38142;&#25509;&#35821;&#35328;&#65288;&#40664;&#35748;&#20026;&#33521;&#25991;&#65289;"
+   },
+   "save_login": {
+      "message": "&#20445;&#23384;"
+   },
+   "reset": {
+      "message": "&#22797;&#20301;"
+   },
+   "click_instructions": {
+      "message": "&#28857;&#20987;&#37325;&#32622;&#20445;&#23384;&#22312;&#33258;&#24049;&#28165;&#26970;&#12290;"
+   },
+   "affilated": {
+      "message": "&#36825;&#20010;&#25193;&#23637;&#27809;&#26377;&#27491;&#24335;&#38582;&#23646;&#20110;"
+   },
+   "solutions": {
+      "message": "&#35299;&#20915;&#26041;&#26696;"
+   },
+   "Products": {
+      "message": "&#20135;&#21697;"
+   },
+   "about_logmein": {
+      "message": "&#20851;&#20110; LogMeIn"
+   },
+   "Support": {
+      "message": "&#25903;&#25345;"
+   },
+   "contact_logmein": {
+      "message": "&#32852;&#31995; LogMeIn"
+   },
+   "labs": {
+      "message": "Labs"
+   }
+}
